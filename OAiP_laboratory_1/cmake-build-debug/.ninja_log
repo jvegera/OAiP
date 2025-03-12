@@ -1,0 +1,8 @@
+# ninja log v6
+1	567	1741374319260700078	CMakeFiles/OAiP_laboratory_1.dir/main.cpp.o	62fe59376072c203
+1	570	1741374319261399782	CMakeFiles/OAiP_laboratory_1.dir/train.cpp.o	a11bcfe5d92189ed
+570	666	1741374319829619967	OAiP_laboratory_1	d893bb1d4b8a8033
+15	669	1741802242100184820	CMakeFiles/OAiP_laboratory_1.dir/main.cpp.o	62fe59376072c203
+669	805	1741802242754491334	OAiP_laboratory_1	d893bb1d4b8a8033
+5	583	1741802730524149519	CMakeFiles/OAiP_laboratory_1.dir/train.cpp.o	a11bcfe5d92189ed
+583	679	1741802731101563471	OAiP_laboratory_1	d893bb1d4b8a8033
