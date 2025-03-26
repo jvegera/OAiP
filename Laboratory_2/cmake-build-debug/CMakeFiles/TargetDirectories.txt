@@ -1,0 +1,3 @@
+/Users/jvegera/Desktop/OAiP/Laboratory_2/cmake-build-debug/CMakeFiles/Laboratory_2.dir
+/Users/jvegera/Desktop/OAiP/Laboratory_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jvegera/Desktop/OAiP/Laboratory_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

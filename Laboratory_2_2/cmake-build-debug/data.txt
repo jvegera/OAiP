@@ -1,0 +1,10 @@
+25 60 masha
+4 100 kostya
+16 190 petya
+9 170 julia
+7 165 nastya
+30 40 vanya
+77 210 dima
+45 145 sveta
+66 120 sasha
+27 110 kirill
